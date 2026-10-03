@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall / Sensitivity,Specificity,F1 Score,ROC-AUC,PR-AUC,Mean CV Recall,CV Recall Std
+Random Forest,0.7468,0.6119,0.7593,0.74,0.6777,0.8289,0.7277,0.7524,0.0179
+SVM,0.7727,0.6557,0.7407,0.79,0.6957,0.8148,0.6954,0.7478,0.0442
+XGBoost,0.7403,0.6029,0.7593,0.73,0.6721,0.8335,0.7224,0.7336,0.0411
